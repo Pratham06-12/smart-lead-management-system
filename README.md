@@ -75,15 +75,30 @@ The project is built on a scalable, modern MERN/PERN stack optimized for high-sp
 
 ## 📸 Application Previews
 
-*(Replace the placeholder URLs with actual screenshots once you push the code)*
-
-| 📱 Executive Dashboard | 📋 Lead Listing Screen |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350.png?text=Dashboard+Preview" alt="Dashboard"/> | <img src="https://via.placeholder.com/600x350.png?text=Lead+Listing+Preview" alt="Listing"/> |
-
-| 🔍 Lead Details 360-View | ⚙️ Quick Actions & Updates |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350.png?text=Details+Preview" alt="Details"/> | <img src="https://via.placeholder.com/600x350.png?text=Actions+Preview" alt="Actions"/> |
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td align="center" width="50%">
+        <b>📊 Executive Dashboard</b><br/><br/>
+        <img src="images/dashboard.png" width="100%" alt="Executive Dashboard"/>
+      </td>
+      <td align="center" width="50%">
+        <b>📋 Lead Listing Screen</b><br/><br/>
+        <img src="images/lead-listing.png" width="100%" alt="Lead Listing Screen"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <b>🔍 Lead Details View</b><br/><br/>
+        <img src="images/lead-details.png" width="100%" alt="Lead Details View"/>
+      </td>
+      <td align="center" width="50%">
+        <b>⚙️ Lead Management</b><br/><br/>
+        <img src="images/lead-management.png" width="100%" alt="Lead Management Form"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
